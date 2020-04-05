@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 asf asdfsdfasfd
 asfdasdf
+=======
+adsfasd
+>>>>>>> bbb
